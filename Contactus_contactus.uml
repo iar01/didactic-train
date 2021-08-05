@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Contactus_contactus</OriginalElement>
+  <nodes>
+    <node x="2619.7669841269844" y="774.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_content_type</node>
+    <node x="0.0" y="1672.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Contactus_contactus</node>
+    <node x="852.7277777777779" y="774.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school_subjects</node>
+    <node x="445.1249999999999" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam_classes</node>
+    <node x="715.7277777777779" y="1179.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher_subjects</node>
+    <node x="1358.4777777777779" y="282.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school</node>
+    <node x="341.55865079365094" y="653.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper</node>
+    <node x="572.3357936507936" y="337.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_level</node>
+    <node x="2196.227777777778" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_groups</node>
+    <node x="1906.9777777777779" y="1113.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post</node>
+    <node x="249.84531746031735" y="249.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_exam</node>
+    <node x="691.7277777777779" y="55.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject</node>
+    <node x="1034.2669841269842" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class_students</node>
+    <node x="75.75" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question_topics</node>
+    <node x="2297.852777777778" y="1190.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group</node>
+    <node x="211.0" y="1672.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.sqlite_master</node>
+    <node x="575.0" y="1672.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_session</node>
+    <node x="1195.7277777777779" y="774.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_studentyeargrade</node>
+    <node x="572.8919841269842" y="752.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam</node>
+    <node x="2749.727777777778" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_user_permissions</node>
+    <node x="2451.852777777778" y="1124.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_admin_log</node>
+    <node x="1041.7277777777779" y="774.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher</node>
+    <node x="2426.5169841269844" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group_permissions</node>
+    <node x="2078.977777777778" y="1146.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.knox_authtoken</node>
+    <node x="1648.625" y="1482.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post_teachers</node>
+    <node x="1687.9777777777779" y="1124.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Subscription_subscription</node>
+    <node x="1313.2277777777779" y="0.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_country</node>
+    <node x="0.0" y="741.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_topic</node>
+    <node x="1452.9777777777779" y="1135.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_student</node>
+    <node x="314.3944444444446" y="1157.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question</node>
+    <node x="152.9191269841267" y="44.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_examboard</node>
+    <node x="991.9777777777779" y="1146.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class</node>
+    <node x="2661.852777777778" y="1168.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_permission</node>
+    <node x="652.1249999999999" y="1438.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults</node>
+    <node x="375.0" y="1672.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_migrations</node>
+    <node x="781.0" y="1672.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.sqlite_sequence</node>
+    <node x="2064.977777777778" y="598.0">51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher_subjects" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="-43.000000000000114" y="-50.5" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_country" relationship="REFERENCES">
+      <point x="0.0" y="-105.5" />
+      <point x="1442.4777777777779" y="209.0" />
+      <point x="1392.2277777777779" y="209.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_admin_log" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="-47.5" y="-105.5" />
+      <point x="2499.352777777778" y="1082.0" />
+      <point x="2151.477777777778" y="1082.0" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question" relationship="REFERENCES">
+      <point x="-71.60000000000002" y="-94.5" />
+      <point x="670.0249999999999" y="1417.0" />
+      <point x="402.3944444444446" y="1417.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_exam" relationship="REFERENCES">
+      <point x="-37.5" y="-72.5" />
+      <point x="610.3919841269842" y="547.0" />
+      <point x="350.84531746031735" y="547.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="-18.0" y="-83.5" />
+      <point x="1045.9777777777779" y="1082.0" />
+      <point x="1031.2277777777779" y="1082.0" />
+      <point x="1031.2277777777779" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_user_permissions" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="54.0" y="-50.5" />
+      <point x="2911.727777777778" y="1417.0" />
+      <point x="2903.477777777778" y="1417.0" />
+      <point x="2903.477777777778" y="1082.0" />
+      <point x="2151.477777777778" y="1082.0" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post_teachers" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher" relationship="REFERENCES">
+      <point x="-39.0" y="-50.5" />
+      <point x="1687.625" y="1377.0" />
+      <point x="1204.3919841269842" y="1377.0" />
+      <point x="1204.3919841269842" y="1092.0" />
+      <point x="1108.7277777777779" y="1092.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_level" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_country" relationship="REFERENCES">
+      <point x="0.0" y="-50.5" />
+      <point x="639.3357936507936" y="209.0" />
+      <point x="1392.2277777777779" y="209.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school_subjects" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="42.0" y="-50.5" />
+      <point x="978.7277777777779" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.knox_authtoken" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="0.0" y="-83.5" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Subscription_subscription" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="66.33333333333326" y="-105.5" />
+      <point x="1853.8111111111111" y="1082.0" />
+      <point x="2151.477777777778" y="1082.0" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class_students" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" relationship="REFERENCES">
+      <point x="-39.75" y="-50.5" />
+      <point x="1074.0169841269842" y="1407.0" />
+      <point x="1063.9777777777779" y="1407.0" />
+      <point x="0.0" y="83.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam" relationship="REFERENCES">
+      <point x="0.0" y="-94.5" />
+      <point x="741.6249999999999" y="1387.0" />
+      <point x="673.4777777777779" y="1387.0" />
+      <point x="673.4777777777779" y="1082.0" />
+      <point x="647.8919841269842" y="1082.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school_subjects" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="-42.0" y="-50.5" />
+      <point x="894.7277777777779" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_exam" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_examboard" relationship="REFERENCES">
+      <point x="-67.33333333333331" y="-138.5" />
+      <point x="283.5119841269841" y="229.0" />
+      <point x="228.9191269841267" y="229.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam_classes" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" relationship="REFERENCES">
+      <point x="46.75" y="-50.5" />
+      <point x="585.3749999999999" y="1407.0" />
+      <point x="1063.9777777777779" y="1407.0" />
+      <point x="0.0" y="83.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="-60.799999999999955" y="-116.5" />
+      <point x="1922.177777777778" y="1072.0" />
+      <point x="1931.8777777777777" y="1072.0" />
+      <point x="1931.8777777777777" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group_permissions" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group" relationship="REFERENCES">
+      <point x="-47.75" y="-50.5" />
+      <point x="2474.2669841269844" y="1417.0" />
+      <point x="2364.852777777778" y="1417.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question_topics" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_topic" relationship="REFERENCES">
+      <point x="-42.0" y="-50.5" />
+      <point x="117.75" y="1417.0" />
+      <point x="95.0" y="1417.0" />
+      <point x="0.0" y="83.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_exam" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="0.0" y="-138.5" />
+      <point x="350.84531746031735" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_groups" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="-38.5" y="-50.5" />
+      <point x="2234.477777777778" y="1082.0" />
+      <point x="2151.477777777778" y="1082.0" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_student" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_studentyeargrade" relationship="REFERENCES">
+      <point x="-53.75" y="-94.5" />
+      <point x="1506.7277777777779" y="1082.0" />
+      <point x="1285.7277777777779" y="1082.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher_subjects" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher" relationship="REFERENCES">
+      <point x="42.999999999999886" y="-50.5" />
+      <point x="844.7277777777778" y="1092.0" />
+      <point x="1108.7277777777779" y="1092.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_groups" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group" relationship="REFERENCES">
+      <point x="38.5" y="-50.5" />
+      <point x="2311.727777777778" y="1417.0" />
+      <point x="2364.852777777778" y="1417.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_student" relationship="REFERENCES">
+      <point x="71.60000000000002" y="-94.5" />
+      <point x="813.2249999999999" y="1387.0" />
+      <point x="1266.9777777777779" y="1387.0" />
+      <point x="1266.9777777777779" y="1367.0" />
+      <point x="1560.4777777777779" y="1367.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher" relationship="REFERENCES">
+      <point x="18.0" y="-83.5" />
+      <point x="1081.9777777777779" y="1092.0" />
+      <point x="1108.7277777777779" y="1092.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="0.0" y="-171.5" />
+      <point x="442.55865079365094" y="567.0" />
+      <point x="462.34531746031735" y="567.0" />
+      <point x="462.34531746031735" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_exam" relationship="REFERENCES">
+      <point x="67.33333333333331" y="-171.5" />
+      <point x="509.8919841269842" y="567.0" />
+      <point x="610.3919841269842" y="567.0" />
+      <point x="610.3919841269842" y="547.0" />
+      <point x="350.84531746031735" y="547.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class_students" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_student" relationship="REFERENCES">
+      <point x="39.75" y="-50.5" />
+      <point x="1153.5169841269842" y="1387.0" />
+      <point x="1266.9777777777779" y="1387.0" />
+      <point x="1266.9777777777779" y="1367.0" />
+      <point x="1560.4777777777779" y="1367.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_group_permissions" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_permission" relationship="REFERENCES">
+      <point x="47.75" y="-50.5" />
+      <point x="2569.7669841269844" y="1417.0" />
+      <point x="2742.852777777778" y="1417.0" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post_teachers" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post" relationship="REFERENCES">
+      <point x="39.0" y="-50.5" />
+      <point x="1765.625" y="1417.0" />
+      <point x="1982.9777777777779" y="1417.0" />
+      <point x="0.0" y="116.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_topic" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_level" relationship="REFERENCES">
+      <point x="47.5" y="-83.5" />
+      <point x="142.5" y="577.0" />
+      <point x="639.3357936507936" y="577.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam_classes" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam" relationship="REFERENCES">
+      <point x="-46.75" y="-50.5" />
+      <point x="491.8749999999999" y="1407.0" />
+      <point x="554.8453174603173" y="1407.0" />
+      <point x="554.8453174603173" y="1082.0" />
+      <point x="647.8919841269842" y="1082.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_country" relationship="REFERENCES">
+      <point x="43.25" y="-226.5" />
+      <point x="2194.727777777778" y="209.0" />
+      <point x="1392.2277777777779" y="209.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question_topics" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question" relationship="REFERENCES">
+      <point x="42.0" y="-50.5" />
+      <point x="201.75" y="1417.0" />
+      <point x="402.3944444444446" y="1417.0" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper" relationship="REFERENCES">
+      <point x="-35.799999999999955" y="-94.5" />
+      <point x="705.8249999999999" y="1397.0" />
+      <point x="565.8453174603173" y="1397.0" />
+      <point x="565.8453174603173" y="1092.0" />
+      <point x="442.55865079365094" y="1092.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_student" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="53.75" y="-94.5" />
+      <point x="1614.2277777777779" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user_user_permissions" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_permission" relationship="REFERENCES">
+      <point x="-54.0" y="-50.5" />
+      <point x="2803.727777777778" y="1417.0" />
+      <point x="2742.852777777778" y="1417.0" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" relationship="REFERENCES">
+      <point x="0.0" y="-116.5" />
+      <point x="1982.9777777777779" y="1082.0" />
+      <point x="2151.477777777778" y="1082.0" />
+      <point x="0.0" y="226.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_post" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="-30.40000000000009" y="-116.5" />
+      <point x="1952.5777777777778" y="1072.0" />
+      <point x="1942.8777777777777" y="1072.0" />
+      <point x="1942.8777777777777" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_topic" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="-47.5" y="-83.5" />
+      <point x="47.5" y="567.0" />
+      <point x="239.34531746031735" y="567.0" />
+      <point x="239.34531746031735" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexam" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="37.5" y="-72.5" />
+      <point x="685.3919841269842" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_studentyeargrade" relationship="REFERENCES">
+      <point x="54.0" y="-83.5" />
+      <point x="1117.9777777777779" y="1082.0" />
+      <point x="1285.7277777777779" y="1082.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_studentyeargrade" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_country" relationship="REFERENCES">
+      <point x="0.0" y="-50.5" />
+      <point x="1285.7277777777779" y="567.0" />
+      <point x="1178.8357936507937" y="567.0" />
+      <point x="1178.8357936507937" y="209.0" />
+      <point x="1392.2277777777779" y="209.0" />
+      <point x="0.0" y="94.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.auth_permission" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_content_type" relationship="REFERENCES">
+      <point x="0.0" y="-61.5" />
+      <point x="2742.852777777778" y="1092.0" />
+      <point x="2703.7669841269844" y="1092.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Users_user" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="-43.25" y="-226.5" />
+      <point x="2108.227777777778" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_examboard" relationship="REFERENCES">
+      <point x="-67.33333333333326" y="-171.5" />
+      <point x="375.2253174603177" y="557.0" />
+      <point x="201.33579365079368" y="557.0" />
+      <point x="201.33579365079368" y="229.0" />
+      <point x="228.9191269841267" y="229.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_mockexamresults" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="35.799999999999955" y="-94.5" />
+      <point x="777.4249999999998" y="1397.0" />
+      <point x="1442.4777777777779" y="1397.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_teacher" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="0.0" y="-50.5" />
+      <point x="1108.7277777777779" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_class" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="-54.0" y="-83.5" />
+      <point x="1009.9777777777779" y="1082.0" />
+      <point x="842.2277777777779" y="1082.0" />
+      <point x="842.2277777777779" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_question" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_paper" relationship="REFERENCES">
+      <point x="0.0" y="-72.5" />
+      <point x="402.3944444444446" y="1092.0" />
+      <point x="442.55865079365094" y="1092.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Subscription_subscription" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_subject" relationship="REFERENCES">
+      <point x="0.0" y="-105.5" />
+      <point x="1787.4777777777779" y="1092.0" />
+      <point x="1759.8111111111111" y="1092.0" />
+      <point x="1759.8111111111111" y="219.0" />
+      <point x="758.7277777777779" y="219.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Subscription_subscription" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.QLA_school" relationship="REFERENCES">
+      <point x="-66.33333333333326" y="-105.5" />
+      <point x="1721.1444444444446" y="1092.0" />
+      <point x="1724.2253174603175" y="1092.0" />
+      <point x="1724.2253174603175" y="577.0" />
+      <point x="1442.4777777777779" y="577.0" />
+      <point x="0.0" y="105.5" />
+    </edge>
+    <edge source="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_admin_log" target="51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.django_content_type" relationship="REFERENCES">
+      <point x="47.5" y="-105.5" />
+      <point x="2594.352777777778" y="1092.0" />
+      <point x="2703.7669841269844" y="1092.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5927918235610543" showDependencies="false" x="1483.0" y="919.5" />
+  <SelectedNodes>
+    <node>51a2692e-f32e-45d3-bd4d-ec81b78a75b8.TABLE:main.Contactus_contactus</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
